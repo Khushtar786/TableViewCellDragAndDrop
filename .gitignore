@@ -25,7 +25,8 @@ build/
 .hg
 .svn
 CVS
-
+# Cocoapods
+Pods/
 # automatic backup files
 *~.nib
 *.swp
